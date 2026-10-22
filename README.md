@@ -10,7 +10,7 @@
 
 ## 🙋‍♀️ Sobre mí
 
-Me llamo **Inma Villaverde** y estudio **2º de ASIR** (Administración de Sistemas Informáticos en Red) en el **CPR Liceo La Paz**. 🎓
+Me llamo **Inma Villaverde** y estudio **2º de ASIR** (Administración de Sistemas Informáticos en Red) en el **Liceo La Paz**. 🎓
 
 - 🖧 Me encanta entender **cómo viaja la información**: routers, switches, VLANs y protocolos.
 - 🛠️ Disfruto montando **servidores, dominios y máquinas virtuales** (¡y arreglándolos cuando se rompen!).
@@ -60,8 +60,8 @@ Me llamo **Inma Villaverde** y estudio **2º de ASIR** (Administración de Siste
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | 🎬 [filmoteca-xml](https://github.com/Inma1980/filmoteca-xml) | Base de datos de películas en XML, validada con DTD y XSD | ![XML](https://img.shields.io/badge/-XML-FF6600?logo=xml&logoColor=white) |
-| 🏀 [baloncesto-sql](https://github.com/Inma1980/baloncesto-sql) | Base de datos de una liga de baloncesto con vistas y triggers | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| 🌐 [cisco-labs](https://github.com/Inma1980/cisco-labs) | Laboratorios de Packet Tracer: DHCP, SSH + ACL, EIGRP y NAT/PAT | ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white) |
+| 🏀 [baloncesto-sql](https://github.com/Inma1980/baloncesto-sql) | Liga de baloncesto en MySQL: DDL, DML, vistas y triggers | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| 🌐 [cisco-labs](https://github.com/Inma1980/cisco-labs) | Red con 3 routers en Packet Tracer: DHCP, SSH + ACL, EIGRP y NAT/PAT | ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white) |
 | 🐍 [python-asir](https://github.com/Inma1980/python-asir) | Mis ejercicios de Python: de "Hola mundo" a pilas y colas | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 
 ---
@@ -87,7 +87,7 @@ Me llamo **Inma Villaverde** y estudio **2º de ASIR** (Administración de Siste
 
 ![Visitas](https://komarev.com/ghpvc/?username=Inma1980&color=ff6ec4&style=for-the-badge&label=VISITAS)
 
-### ✨ *"Si funciona, no lo toques… pero guárdatelo"* ✨
+### ✨ *"Si funciona, no lo toques… pero documéntalo"* ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=100&section=footer" />
 
