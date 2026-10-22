@@ -62,16 +62,18 @@ Me llamo **Inma Villaverde** y estudio **2º de ASIR** (Administración de Siste
 | 🎬 [filmoteca-xml](https://github.com/Inma1980/filmoteca-xml) | Base de datos de películas en XML, validada con DTD y XSD | ![XML](https://img.shields.io/badge/-XML-FF6600?logo=xml&logoColor=white) |
 | 🏀 [baloncesto-sql](https://github.com/Inma1980/baloncesto-sql) | Liga de baloncesto en MySQL: DDL, DML, vistas y triggers | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | 🌐 [cisco-labs](https://github.com/Inma1980/cisco-labs) | Red con 3 routers en Packet Tracer: DHCP, SSH + ACL, EIGRP y NAT/PAT | ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white) |
+
 ---
 
 ## 📊 Mis estadísticas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Inma1980&show_icons=true&theme=radical&hide_border=true&locale=es" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inma1980&layout=compact&theme=radical&hide_border=true&locale=es" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Inma1980&show_icons=true&hide_rank=true&hide=prs,issues,contribs&locale=es&custom_title=Mi%20actividad%20en%20GitHub%20%E2%9C%A8&line_height=32&hide_border=true&border_radius=14&card_width=380&bg_color=30,ff6ec4,7873f5&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inma1980&layout=compact&langs_count=6&locale=es&custom_title=Lenguajes%20m%C3%A1s%20usados%20%F0%9F%92%BB&hide_border=true&border_radius=14&card_width=380&bg_color=30,7873f5,ff6ec4&title_color=ffffff&text_color=ffffff" />
 
-<img src="https://streak-stats.demolab.com?user=Inma1980&theme=radical&hide_border=true&locale=es" />
+<img width="99%" src="https://streak-stats.demolab.com?user=Inma1980&locale=es&hide_border=true&border_radius=14&card_width=850&background=30,ff6ec4,7873f5&stroke=ffffff66&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffffcc" />
+
 
 </div>
 
