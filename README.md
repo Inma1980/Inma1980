@@ -62,8 +62,6 @@ Me llamo **Inma Villaverde** y estudio **2º de ASIR** (Administración de Siste
 | 🎬 [filmoteca-xml](https://github.com/Inma1980/filmoteca-xml) | Base de datos de películas en XML, validada con DTD y XSD | ![XML](https://img.shields.io/badge/-XML-FF6600?logo=xml&logoColor=white) |
 | 🏀 [baloncesto-sql](https://github.com/Inma1980/baloncesto-sql) | Liga de baloncesto en MySQL: DDL, DML, vistas y triggers | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | 🌐 [cisco-labs](https://github.com/Inma1980/cisco-labs) | Red con 3 routers en Packet Tracer: DHCP, SSH + ACL, EIGRP y NAT/PAT | ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white) |
-| 🐍 [python-asir](https://github.com/Inma1980/python-asir) | Mis ejercicios de Python: de "Hola mundo" a pilas y colas | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-
 ---
 
 ## 📊 Mis estadísticas
